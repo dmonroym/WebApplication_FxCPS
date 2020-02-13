@@ -9,5 +9,6 @@ namespace WebApplication_FxCPS
     class Class2
     {
         Class1 c = new Class1();
+
     }
 }
